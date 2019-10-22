@@ -1,14 +1,25 @@
-.initially-showing {
+/* .initially-showing {
   display: none;
 }
 /* .lamprey {
   display: none;
-} */
-.clickable {
+/* } */
+/* .clickable {
   cursor: pointer;
   color: #0088cc;
+} */
+
+/* .clickable:hover {
+  text-decoration: underline;
+}  */
+.green-background {
+  background-color: green;
 }
 
-.clickable:hover {
-  text-decoration: underline;
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
 }
